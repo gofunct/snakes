@@ -1,4 +1,4 @@
-package cobra
+package snakes
 
 import (
 	"fmt"
